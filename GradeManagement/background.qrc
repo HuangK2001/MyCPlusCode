@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/u=688748113,4157500250&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG.webp</file>
+        <file>img/u=896220813,1888997019&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG.webp</file>
+        <file>img/u=1090361990,1723437033&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPG.webp</file>
+        <file>img/u=1208237680,3730970019&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG.webp</file>
+        <file>img/u=1486361426,1463049788&amp;fm=253&amp;fmt=auto&amp;app=120&amp;f=JPEG.webp</file>
+        <file>img/u=1574639654,2308082710&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG.webp</file>
+        <file>img/u=2817605393,3584994416&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG.webp</file>
+        <file>img/u=2892472722,509531645&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG.webp</file>
+        <file>img/u=3644447688,4249624897&amp;fm=26&amp;fmt=auto.webp</file>
+        <file>img/u=3858335510,1395154126&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG.webp</file>
+        <file>img/u=3875838714,1860732789&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG.webp</file>
+        <file>img/u=4116109927,1424758308&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG.webp</file>
+        <file>img/下载.jpg</file>
+    </qresource>
+</RCC>
